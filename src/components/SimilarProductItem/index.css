@@ -1,0 +1,13 @@
+/* Write your CSS here */
+.price-rating-cont {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+.similar-image {
+  height: 200px;
+  width: 150px;
+}
+.item-cont {
+  list-style: none;
+}
